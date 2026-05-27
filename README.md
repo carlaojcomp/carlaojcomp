@@ -124,7 +124,7 @@ Modelo de detecção de quedas utilizando dados de acelerômetros em múltiplas 
 ## 📫 Contato
 
 - 📧 Email: carlaojcomp@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/carlos-carvalho-5a05792a9)
+- 💼 LinkedIn: [linkedin.com/in/carlos-carvalho-5a05792a9](https://www.linkedin.com/in/carlos-carvalho-5a05792a9)
 - 💻 GitHub: [github.com/carlaojcomp](https://github.com/carlaojcomp)
 
 ---
